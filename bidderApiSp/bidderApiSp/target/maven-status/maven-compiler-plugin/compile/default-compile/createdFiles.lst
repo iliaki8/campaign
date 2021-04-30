@@ -1,0 +1,13 @@
+com\sella\bidderApiSp\domain\AppD.class
+com\sella\bidderApiSp\service\BidderService.class
+com\sella\bidderApiSp\interfaceService\BidderInterfaceService.class
+com\sella\bidderApiSp\mockedCampaignApi\CampaignApi.class
+com\sella\bidderApiSp\domain\DeviceD.class
+com\sella\bidderApiSp\domain\BidD.class
+com\sella\bidderApiSp\domain\BidderResponceD.class
+com\sella\bidderApiSp\parsers\BidRequestParser.class
+com\sella\bidderApiSp\BidderApiSpApplication.class
+com\sella\bidderApiSp\domain\CampaignD.class
+com\sella\bidderApiSp\domain\BidRequestD.class
+com\sella\bidderApiSp\domain\GeoD.class
+com\sella\bidderApiSp\domain\OSEnum.class
